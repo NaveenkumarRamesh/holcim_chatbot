@@ -44,6 +44,7 @@ This repository contains the code for the Holcim Chatbot, a Streamlit-based appl
     - Add the following environment variables:
       ```
       GOOGLE_DRIVE_API_KEY=your_api_key
+      GOOGLE_ACCOUNT_FILE=credentials_to_gdrive
       ```
 
 ## Usage
